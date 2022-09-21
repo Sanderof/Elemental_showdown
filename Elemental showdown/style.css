@@ -1,0 +1,12 @@
+body {
+  background-color: #252528;
+}
+
+#canvas {
+  margin-top: 20px;
+  margin-left: 50%;
+  transform: translateX(-50%);
+
+  border: 3px solid black;
+  background-color: white;
+}
